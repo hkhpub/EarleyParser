@@ -1,0 +1,13 @@
+S -> NP VP
+NP -> NP PP
+NP -> N
+PP -> P NP
+VP -> V NP
+VP -> VP PP
+
+P -> with
+V -> saw
+N -> astronomers
+N -> ears
+N -> stars
+N -> telescopes

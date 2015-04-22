@@ -1,6 +1,3 @@
-# EarleyParser
-java Earley parser with Shared-Packed Parse Forest
-
 # Earley Parser by hkh 2015-04-18
 
 # 1. 실행 방법

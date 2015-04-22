@@ -1,0 +1,1 @@
+(S (NP (n time))(VP (VP (v flies))(PP (P (p like))(NP (DT (det an))(NP (n arrow))))))
