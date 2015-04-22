@@ -44,8 +44,8 @@ java Earley parser with Shared-Packed Parse Forest
 			2. ArrayList<ArrayList<State>> backPointers
 	
 	
-# 3. Ambiguity 예로 사용한 문법과 문구는 input_test.txt, grammar_test.txt에 있습니다.
+	3) Ambiguity 예로 사용한 문법과 문구는 input_test.txt, grammar_test.txt에 있습니다.
 
-# 4. 기타 자세한 사항은 프로그램에 주석처리로 명시했습니다. 
+	4) 기타 자세한 사항은 프로그램에 주석처리로 명시했습니다. 
 
 
